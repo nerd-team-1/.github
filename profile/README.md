@@ -4,18 +4,21 @@
 > 멘토님들 환영합니다 :)
 > 심심할때 한번씩 와서 구경해주시고 피드백도 주시면 너무나 감사하겠습니다!
 
-
+<p>
+    <img src="https://github.com/nerd-team-1/.github/blob/main/profile/asset/demo_image.png" width="700">
+</p>
+> ※아직 개발중인 데모이미지 입니다.
 
 > [!NOTE]
 > 모든 노래방들의 정보와 다양한 랭킹, AI 음성 분석을 포함한 종합 노래방 플랫폼  
-> Favorite 18 을 개발 중인 Nerd Team1 의 Team Repository 입니다.  
+> Favorite 18 을 개발 중인 Nerd Team1 의 Team Repository 입니다.
 
 ## 개요
 
 > [!NOTE]
 > 노래방 회사별로 달라 찾기 힘들던 노래 정보들을 단순화 하고  
 > 사람들이 자주 찾는 노래방 명곡들을 랭킹으로 모아볼 수 있는 앱입니다.  
-> 주변 노래방 위치 확인, 음성분석 기능도 추가예정입니다.  
+> 주변 노래방 위치 확인, 음성분석 기능도 추가예정입니다.
 
 > [!WARNING]
 > 모든 자료는 `document` Repository 에 정리하고 있습니다.
