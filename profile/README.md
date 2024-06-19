@@ -35,8 +35,8 @@
   <tr>
     <td align="center"><a href="https://github.com/JakePark929"><b>박중언</b></a></td>
     <td align="center"><a href="https://github.com/donsonioc2010"><b>김종원</b></a></td>
-    <td align="center"><a href="https://github.com/wooni89"><b>최서영</b></a></td>
-    <td align="center"><a href="https://github.com/lljh1992"><b>박진현</b></a></td>
+    <td align="center"><a href="https://github.com/BellaChooi"><b>최서영</b></a></td>
+    <td align="center"><a href="https://github.com/parkjinhyun2"><b>박진현</b></a></td>
   </tr>
   <tr>
     <td align="center">👑팀장💻</td>
