@@ -1,9 +1,5 @@
 ## Nerd Team 1
 
-> [!IMPORTANT]
-> 멘토님들 환영합니다 :)
-> 심심할때 한번씩 와서 구경해주시고 피드백도 주시면 너무나 감사하겠습니다!
-
 > [!NOTE]
 > 모든 노래방들의 정보와 다양한 랭킹, AI 음성 분석을 포함한 종합 노래방 플랫폼  
 > Favorite 18 을 개발 중인 Nerd Team1 의 Team Repository 입니다. 
